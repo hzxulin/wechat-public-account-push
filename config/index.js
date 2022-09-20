@@ -64,7 +64,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "o_PdX65gDwLuCAHphnPA7iEwsbNI",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "UkmwaXSZVTxyArs53_hZI9EDVqZzjzaDx1pfB7pI8VA",
+      useTemplateId: "uPlIJcwtmXo-xbMISfPJgmRmJjaJNVUWibjtDVjoulI",
       // 所在省份
       province: "浙江",
       // 所在城市
@@ -80,6 +80,7 @@ export const config = {
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {"type": "*生日", "name": "爸爸", "year": "1964", "date": "01-24"},
         {"type": "*生日", "name": "妈妈", "year": "1964", "date": "03-17"},
+        {"type": "*生日", "name": "爹爹", "year": "1963", "date": "12-04"},
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {"type": "生日", "name": "想想", "year": "2022", "date": "06-18"},
         {"type": "生日", "name": "思思", "year": "1996", "date": "08-13"},
